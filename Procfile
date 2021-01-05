@@ -1,1 +1,1 @@
-web: gunicorn __init__.py
+web: gunicorn blog/__init__.py
