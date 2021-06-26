@@ -3,7 +3,6 @@ from werkzeug.routing import ValidationError
 from wtforms import StringField, PasswordField
 from wtforms import TextAreaField, BooleanField
 from wtforms.validators import DataRequired
-
 from blog import Config
 
 

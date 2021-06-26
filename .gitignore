@@ -145,5 +145,6 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 /share
-
+/migrations
+blog/mikroblog.db
 # End of https://www.toptal.com/developers/gitignore/api/venv
